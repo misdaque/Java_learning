@@ -10,5 +10,10 @@
 *.tar.gz
 *.rar
 *.iml
+.project
+.classpath
 hs_err_pid*
 /.idea
+/bin/
+/.settings/
+
